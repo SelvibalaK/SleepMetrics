@@ -1,5 +1,5 @@
 # SleepMetrics
-> Predicting sleep duration from stress levels using Simple Linear Regression — built from scratch, one feature at a time.
+> Predicting sleep duration from stress levels using Simple Linear Regression .
 
 ---
 
